@@ -25,6 +25,6 @@ Here are some ideas to get you started:
         <h3>Backend Developer | Web Pentester</h3>
     </div>
     <div class="container__skills" align="center">
-        <p>Siguiendo la ruta de Backend Developer de roadmap.sh, aprendiendo Cibersecurity con YouTube y Bash Scripting con OverTheWire</p>
+        <p>Inmerso en el universo informático. Estudio seguridad informática y desarrollo backend. </p>
     </div>
 </div>
