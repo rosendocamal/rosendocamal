@@ -22,9 +22,9 @@ Here are some ideas to get you started:
         <h1>¡Hola! ¡Soy Rosendo Camal!</h1>
     </div>
     <div class="container__specialization" align="center">
-        <h3>Backend Developer | Web Pentester</h3>
+        <h3>Objetivos: Backend Developer & Pentester</h3>
     </div>
     <div class="container__skills" align="center">
-        <p>Inmerso en el universo informático. Estudio seguridad informática y desarrollo backend. </p>
+        <p>Inmerso en el universo informático. Estudio seguridad informática y desarrollo backend. Mis plataformas de aprendizaje son YouTube, HackTheBox, OverTheWire y por qué no, de nuestro aliado Internet.</p>
     </div>
 </div>
