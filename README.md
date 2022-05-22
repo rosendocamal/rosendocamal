@@ -22,6 +22,6 @@ Here are some ideas to get you started:
         <h1>¡Hola, soy Rosendo Camal!</h1>
     </div>
     <div class="container_text" align="center">
-        <p>Apasionado por la informática en general, pero me enfocó en los temas de desarrollo backend, Linux y seguridad informática.</p>
+        <p>Soy programador frontend y un apasionado por la informática, me enfocó en los temas de desarrollo backend, Linux y seguridad informática, aunque en un principio conocí el desarrollo web fronted.</p>
     </div>
 </div>
