@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 
 <div class="container">
     <div class="container__name" align="center">
-        <h1>¡Hola! ¡Soy Rosendo Camal!</h1>
+        <h1>¡Hola, soy Rosendo Camal!</h1>
     </div>
-    <div class="container__specialization" align="center">
-        <h3>Objetivos: Backend Developer & Pentester</h3>
-    </div>
-    <div class="container__skills" align="center">
-        <p>Inmerso en el universo informático. Estudio seguridad informática y desarrollo backend. Mis plataformas de aprendizaje son YouTube, HackTheBox, OverTheWire y por qué no, de nuestro aliado Internet.</p>
+    <div class="container_text" align="center">
+        <p>Apasionado por la informática en general, pero me enfocó en los temas de desarrollo backend, Linux y seguridad informática.</p>
     </div>
 </div>
