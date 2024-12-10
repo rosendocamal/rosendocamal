@@ -17,17 +17,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="container">
-    <div class="container__name" align="center">
-        <h1></h1>
-    </div>
-    <div class="container_text" align="center">
-        <p>¡Hola a todos! Soy un apasionado de la informática y estoy en constante aprendizaje en el mundo de la programación. Desde mis inicios, he estado interesado en el desarrollo web frontend, donde disfruto de crear interfaces visuales y mejorar la experiencia del usuario utilizando tecnologías como HTML, CSS y JavaScript.</p>
-    </div>
-    <div class="container_text" align="center">
-        <p>Sin embargo, mi interés se ha desplazado hacia la ciberseguridad y el desarrollo backend. Descubrí la importancia de proteger la información de los usuarios y las empresas y me dediqué a aprender todo lo relacionado con la seguridad informática.</p>
-    </div>
-    <div class="container_text" align="center">
-        <p>Gracias por visitar mi perfil de GitHub, siéntete libre de contactarme para cualquier consulta o si deseas colaborar en algún proyecto. ¡Estoy emocionado por lo que el futuro me depara en el mundo de la programación!</p>
-    </div>
-</div>
+# ¡Hola! Soy Rosendo Camal 👋
+
+Hoy inicio un nuevo capítulo en mi camino como desarrollador web y de Python. Después de un breve (o quizás largo) tiempo alejado del mundo de la programación, estoy de vuelta para seguir aprendiendo.
+
+### 🚀 Mi camino en la programación
+Aunque tomé una pausa de más de un año, anteriormente trabajé en desarrollo web, creando varios sitios estáticos para proyectos de venta en la preparatoria. Durante ese tiempo, también me adentré en herramientas como [nvim](https://neovim.io/) y los fundamentos de Linux. Dejé tres sitios web funcionales (aunque no tan completos, ¡pero sí bonitos!) y una configuración personalizada de `nvim`. Esta configuración fue principalmente una práctica de aprendizaje para familiarizarme con el editor, pero no llegó a mejorar significativamente mi flujo de trabajo, ya que aún estaba en proceso de adaptación.
+
+### 🌱 Lo que estoy aprendiendo ahora
+- **Desarrollo web**: Actualmente me concentro en tecnologías como HTML, CSS y JavaScript. Mi objetivo es aprender a desarrollar y desplegar aplicaciones web completas.
+- **Python**: Python me atrae por su simplicidad y similitud con el pseudocódigo. Estoy retomando mi aprendizaje para desarrollar proyectos web.
+
+### 🔧 Mis proyectos
+- Sitios web estáticos creados con **HTML**, **CSS** y **JavaScript**.
+- Configuración personalizada de **nvim** como parte de mi práctica para aprender a utilizar el editor y mejorar en el uso de herramientas de desarrollo.
+
+Mi objetivo es seguir aprendiendo y, en un futuro cercano, contribuir a proyectos interesantes en la comunidad.
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
+
