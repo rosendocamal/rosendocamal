@@ -19,90 +19,51 @@ Here are some ideas to get you started:
 
 # ¡Hola! Soy Rosendo Camal 👋
 
+🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la Universidad Aztlán, Sede Playa del Carmen (modalidad ejecutiva).  
 
-🎓 Estudiante de **Ingeniería en Sistemas Computacionales** (1er cuatrimestre, modalidad ejecutiva).  
+💻 Interesado en el **desarrollo de software** y en el uso de las **matemáticas** (álgebra, trigonometría, geometría, matemáticas discretas, entre otras) como fundamento para la programación y el diseño de algoritmos.  
 
-💻 Apasionado por **Python, álgebra aplicada y resolución de problemas** con un enfoque modular, claro y orientado a buenas prácticas.  
-
-🚴‍♂️ Me apasiona el ciclismo. En mi formación como ingeniero disfruto aprender de manera iterativa, mejorando tanto el código como la lógica detrás de cada solución. 
-
+📚 Motivado por la creación de soluciones **claras, eficientes y confiables**, cuidando la lógica, la precisión y la calidad del código en cada proyecto.  
 
 ---
 
 ## 🚀 Sobre mí
--  Actualmente trabajo como **auxiliar de piso** en una tienda de conveniencia 24/7.
-  
--  Me interesa crecer en el área de **desarrollo de software y sistemas**.
-  
--  Estoy construyendo un portafolio que combine **ejercicios académicos, proyectos personales y experimentos prácticos**.
-  
--  Enfoque en **claridad, validación de entradas y manejo de edge cases** en mis programas.  
 
+- En formación como **Ingeniero en Sistemas Computacionales**, con enfoque en **programación, algoritmos y desarrollo de sistemas**.  
+- Construyendo un portafolio que combina **ejercicios académicos, proyectos personales y experimentos prácticos**, reflejando progreso y aplicación real de conocimientos.  
+- Comprometido con la **calidad del software**: claridad en la estructura, validación rigurosa de entradas y manejo de casos límite para asegurar soluciones robustas.  
 
 ---
 
 ## 🌱 Lo que estoy aprendiendo ahora
 
-- **Python**: profundizando en buenas prácticas, validación de entradas y resolución de problemas con un enfoque claro y modular.
-  
-- **Álgebra**: aplicando conceptos matemáticos a la programación y a la lógica computacional.
-  
-- **Inglés**: fortaleciendo el idioma técnico para documentación, lectura de papers y comunicación profesional.
-  
-- **Java y C++**: bases de programación orientada a objetos, estructuras de datos y fundamentos de ingeniería de software.
-  
-- **Diagramas de flujo y pseudocódigo (PSeInt)**: desarrollando la lógica antes de codificar, para mejorar claridad y diseño de soluciones.
- 
-
----
-
-## 📌 Próximos pasos
-
-- **Bases sólidas en programación**
-  
-  - [ ] Dominar lo esencial en **Python, Java y C++** (condicionales, bucles, funciones, estructuras de datos básicas).  
-  - [ ] Reforzar diagramas de flujo y pseudocódigo para mejorar la lógica antes de programar.
-         
-- **Proyectos en Python**
-  
-  - [ ] Crear una **calculadora** con interfaz simple (Tkinter o consola).  
-  - [ ] Desarrollar un **analizador de gastos personales** (lectura de CSV, generación de reportes y gráficas).  
-  - [ ] Implementar un **web scraper sencillo** o un **bot de automatización de tareas**.
-        
-- **Habilidades complementarias**
-  
-  - [ ] Practicar inglés técnico para documentación y comunicación profesional.  
-  - [ ] Documentar proyectos en GitHub con README claros y ejemplos de uso.  
-
+- Fortaleciendo bases en **programación** y construcción de soluciones tecnológicas.  
+- Integrando proyectos en un portafolio que muestre **crecimiento académico y práctico**.  
+- Desarrollando competencias en **buenas prácticas de código**, documentación técnica y comunicación profesional.  
 
 ---
 
 ## 🔧 Mis primeros proyectos
 
 - 🐍 **Ejercicios en Python**  
-  Programas con condicionales y bucles, además de prácticas con arrays, diccionarios y funciones.  
-  *Aprendizaje clave:* estructuración de código, validación de entradas y uso de colecciones para resolver problemas.
-  
-- ☕ **Ejercicios en Java**  
-  Scripts básicos aplicando condicionales y ciclos, reforzando la lógica de programación orientada a objetos.  
-  *Aprendizaje clave:* fundamentos de sintaxis Java y pensamiento en clases/objetos.
-  
+  Condicionales, bucles, colecciones y funciones.  
+  *Clave:* estructuración de código y validación de entradas.  
+
 - 💻 **Ejercicios en C++**  
-  Programas con estructuras de control (if, for, while) y primeros pasos en programación de bajo nivel.  
-  *Aprendizaje clave:* comprensión de memoria, compilación y eficiencia en el código.
-  
-- 🔄 **Diagramas de flujo y pseudocódigo en PSeInt**  
-  Desarrollo de lógica antes de codificar, aplicando estructuras condicionales y ciclos.  
-  *Aprendizaje clave:* diseñar algoritmos de forma clara y traducirlos a distintos lenguajes.
-  
-- 🌐 **Sitios web estáticos con HTML, CSS y JavaScript**  
-  Primeros pasos en desarrollo web, practicando estructura, estilos y lógica básica en el navegador.  
-  *Aprendizaje clave:* fundamentos de diseño web y organización de archivos.
-  
-- ⚙️ **Configuración personalizada de Neovim**  
-  Ajustes de entorno de desarrollo para optimizar productividad y familiarizarme con herramientas de programación.  
-  *Aprendizaje clave:* manejo de editores avanzados, atajos y flujo de trabajo más eficiente.
-  
+  Control de flujo y fundamentos de bajo nivel.  
+  *Clave:* comprensión de memoria y eficiencia.  
+
+- 🔄 **Diagramas de flujo y pseudocódigo (PSeInt)**  
+  Diseño de algoritmos antes de codificar.  
+  *Clave:* claridad y traducción a distintos lenguajes.  
+
+- 🌐 **Sitios web estáticos (HTML, CSS, JavaScript)**  
+  Primeros pasos en desarrollo web.  
+  *Clave:* fundamentos de diseño y organización de archivos.  
+
+- ⚙️ **Configuración de Neovim**  
+  Personalización del entorno de desarrollo.  
+  *Clave:* productividad y flujo de trabajo eficiente.  
 
 ---
 
@@ -119,11 +80,11 @@ Here are some ideas to get you started:
 
 ## 📈 Estadísticas de GitHub
 ![Rosendo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosendocamal&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosendocamal&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosendocamal&layout=compact&theme=tokyonight)  
 
 ---
 
-⭐ *“El código no solo debe funcionar, también debe ser claro, robusto y fácil de entender.”*
+⭐ *“El código no solo debe funcionar, también debe ser claro, robusto y fácil de entender.”*  
 
-¡Gracias por visitar mi perfil! 🚀
+🚀 ¡Gracias por visitar mi perfil!
 
