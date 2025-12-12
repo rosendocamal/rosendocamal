@@ -51,11 +51,7 @@ Here are some ideas to get you started:
 
 - 💻 **Ejercicios en C++**  
   Control de flujo y fundamentos de bajo nivel.  
-  *Clave:* comprensión de memoria y eficiencia.  
-
-- 🔄 **Diagramas de flujo y pseudocódigo (PSeInt)**  
-  Diseño de algoritmos antes de codificar.  
-  *Clave:* claridad y traducción a distintos lenguajes.  
+  *Clave:* comprensión de memoria y eficiencia.   
 
 - 🌐 **Sitios web estáticos (HTML, CSS, JavaScript)**  
   Primeros pasos en desarrollo web.  
