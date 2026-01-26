@@ -19,68 +19,56 @@ Here are some ideas to get you started:
 
 # ¡Hola! Soy Rosendo Camal 👋
 
-🎓 Estudiante de **Ingeniería en Sistemas Computacionales** en la Universidad Aztlán, Sede Playa del Carmen (modalidad ejecutiva).  
+🎓 **Estudiante de Ingeniería en Sistemas Computacionales**
 
-💻 Interesado en el **desarrollo de software** y en el uso de las **matemáticas** (álgebra, trigonometría, geometría, matemáticas discretas, entre otras) como fundamento para la programación y el diseño de algoritmos.  
+💻 **Perfil técnico:** Actualmente curso el 2do cuatrimestre de Ingeniería (modalidad Ejecutiva). Mi enfoque está en aprender la programación y el análisis de datos, utilizando la lógica matemática como herramienta principal para resolver problemas.
 
-📚 Motivado por la creación de soluciones **claras, eficientes y confiables**, cuidando la lógica, la precisión y la calidad del código en cada proyecto.  
+## 🔧 Proyectos en los que he trabajado
 
----
+* **Procesamiento de datos (Programa de Becas de México 2025):** Desarrollo de scripts en Python para la descarga y limpieza de datasets gubernamentales de los Programas de Becas para Educación Básica, Media Superior y Superior. Logré consolidar una base de datos local en SQLite con más de 85 millones de registros, optimizando la descarga por fragmentos para no saturar la memoria RAM.
 
-## 🚀 Sobre mí
+* **Transformación de datos (Deuda Histórica del IPAB al 2025)**: Limpio y ordeno con scripts los datos históricos de la deuda del IPAB. Logré convertir el reporte oficial en una estructura más amigable con Python y JSON, pasando de una estructura de 14.5 mil registros con seis columnas a 23 registros por 93 columnas con una reducción del peso en un 90%.
 
-- En formación como **Ingeniero en Sistemas Computacionales**, con enfoque en **programación, algoritmos y desarrollo de sistemas**.  
-- Construyendo un portafolio que combina **ejercicios académicos, proyectos personales y experimentos prácticos**, reflejando progreso y aplicación real de conocimientos.  
-- Comprometido con la **calidad del software**: claridad en la estructura, validación rigurosa de entradas y manejo de casos límite para asegurar soluciones robustas.  
+* **Lógica**: Implementación de soluciones modulares para geometría analítica y lógica matemática.
 
----
+## 🛠️ Stack Tecnológico
 
-## 🌱 Lo que estoy aprendiendo ahora
+**Lenguajes y Datos**
 
-- Fortaleciendo bases en **programación** y construcción de soluciones tecnológicas.  
-- Integrando proyectos en un portafolio que muestre **crecimiento académico y práctico**.  
-- Desarrollando competencias en **buenas prácticas de código**, documentación técnica y comunicación profesional.  
-
----
-
-## 🔧 Mis primeros proyectos
-
-- 🐍 **Ejercicios en Python**  
-  Condicionales, bucles, colecciones y funciones.  
-  *Clave:* estructuración de código y validación de entradas.  
-
-- 💻 **Ejercicios en C++**  
-  Control de flujo y fundamentos de bajo nivel.  
-  *Clave:* comprensión de memoria y eficiencia.   
-
-- 🌐 **Sitios web estáticos (HTML, CSS, JavaScript)**  
-  Primeros pasos en desarrollo web.  
-  *Clave:* fundamentos de diseño y organización de archivos.  
-
-- ⚙️ **Configuración de Neovim**  
-  Personalización del entorno de desarrollo.  
-  *Clave:* productividad y flujo de trabajo eficiente.  
-
----
-
-## 🛠️ Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Entorno de Desarrollo**
+
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Control de Versiones**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+## 📚 Proyectos Destacados
+
+1. [**Datos abiertos consolidados del Programa de Becas de México en 2025**](https://github.com/rosendocamal/padron-beneficiarios-becas-mx-2025): Pipeline ETL completo (Scraping -> Cleaning -> SQL). Manejo de memoria por fragmentos para datos masivos.
+
+2. [**Comparativo de la Deuda Histórica del IPAB al 2025**](https://github.com/rosendocamal/comparativo-deuda-ipab): Limpieza y ordenamiento de datos (Cleaning -> Transformation -> CSV). Reducción del peso en un 90%, permitiendo un análisis ejecutivo de manera rápida y accesible.
+  
+3. [**Ejercicios en Python**](https://github.com/rosendocamal/python-exercises): Herramientas de cálculo para Geometría Analítica, algoritmos de lógica matemáticas y miscelánea.
+
+## 🌱 Objetivo actual
+
+Busco mi primera oportunidad profesional para aplicar lo que estoy aprendiendo en la universidad y de forma autodidacta. Me inetera el área de análisis de datos, backend o cualquier rol técnico donde pueda seguir puliendo mi lógica de programación.
 
 ## 📈 Estadísticas de GitHub
+
 ![Rosendo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosendocamal&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosendocamal&layout=compact&theme=tokyonight)  
-
 ---
-
-⭐ *“El código no solo debe funcionar, también debe ser claro, robusto y fácil de entender.”*  
+⭐ *"La sencillez es una gran virtud pero requiere mucho trabajo para lograrla y educación para apreciarla. Y para empeorar las cosas: la complejidad se vende mejor"* - Edsger Dijkstra.
 
 🚀 ¡Gracias por visitar mi perfil!
 
