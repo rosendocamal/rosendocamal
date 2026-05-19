@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🎓 **Estudiante de Ingeniería en Sistemas Computacionales**
 
-Actualmente curso el 2do cuatrimestre de Ingeniería (Modalidad Ejecutiva). Mi enfoque está en aprender las bases de la programación y el análisis de datos, utilizando la lógica matemática como herramienta principal para resolver problemas.
+Actualmente curso el 3er cuatrimestre de Ingeniería (Modalidad Ejecutiva). Mi enfoque está en aprender las bases de la programación y el análisis de datos, utilizando la lógica matemática como herramienta principal para resolver problemas.
 
 ---
 
