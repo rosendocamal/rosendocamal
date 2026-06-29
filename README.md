@@ -72,5 +72,5 @@ Busco integrarme a un equipo técnico como **Data Analyst Junior**, **Backend De
 ---
 <p align="center">
   ¡Gracias por visitar mi perfil!<br>
-  <a href="https://github.com/rosendocamal"><strong>Ver mis repositorios →</strong></a>
+  <a href="https://github.com/rosendocamal?tab=repositories"><strong>Ver mis repositorios →</strong></a>
 </p>
