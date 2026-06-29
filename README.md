@@ -43,11 +43,7 @@ Actualmente curso el 3er cuatrimestre de Ingeniería (Modalidad Ejecutiva). Mi e
 * **Logro:** Reducción del peso del dataset en un **90%** mediante reestructuración lógica.
 * **Técnica:** Transformación de reportes planos a estructuras `JSON/Python` de alta densidad (de 14.5 mil a 23 filas y de 6 a 93 columnas informativas).
 * **Stack:** `Python`, `JSON`, `Data Transformation`.
-
-### [**Lógica & Algoritmos**](https://github.com/rosendocamal/python-exercises)
-*Implementación de soluciones para problemas matemáticos, aplicación de conceptos y aprendizaje.*
-* **Enfoque:** Scripts para Geometría Analítica, Lógica Matemática aplicada y miscelánea.
-
+* 
 ---
 
 ## 🛠️ Stack Tecnológico
